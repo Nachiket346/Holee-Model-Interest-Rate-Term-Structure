@@ -33,3 +33,10 @@ Applications:
 
 Techstack: Jupyter,Numpy,Scipy,Matplotlib.
 
+Future Enhancements
+
+This model can be used to price the following:
+Caps & floors
+European swaptions
+Callable bonds
+Fixed–floating swaps
